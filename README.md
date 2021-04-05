@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on with other devs to improve the CDA Corona-Data-Project (Open-Source)
 - ☕ Nothing beats a good cup of coffee or a good wine 🍷
 
-<br/>
+<hr/>
 ______
 
 ### Languages and Tools i work with:
