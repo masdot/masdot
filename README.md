@@ -1,7 +1,7 @@
 ## Hi there, i'm @masdot!👋
 
-[![Website](https://img.shields.io/website?label=masdot.de&style=for-the-badge&url=https%3A%2F%2Fmasdot.de)](https://masdot.de/) {: .center-image }
-[![Twitter](https://img.shields.io/twitter/follow/masdot?color=1DA1F2&logo=twitter&style=for-the-badge)](#twitter-link) {: .center-image }
+[![Website](https://img.shields.io/website?label=masdot.de&style=for-the-badge&url=https%3A%2F%2Fmasdot.de)](https://masdot.de/){: .center-image }
+[![Twitter](https://img.shields.io/twitter/follow/masdot?color=1DA1F2&logo=twitter&style=for-the-badge)](#twitter-link){: .center-image }
 
 <style>
   .center-image
