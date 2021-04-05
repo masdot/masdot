@@ -28,6 +28,16 @@
 <br/>
 <br/>
 
+# My last projects:
+
+<<-- Last Projects added by action (from Website/projects) -->>
+
+<hr/>
+
+# Last Blog Posts:
+
+<<-- Last Blog Posts added by action (from Website/blog) -->>
+
 <!--
 **masdot/masdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
