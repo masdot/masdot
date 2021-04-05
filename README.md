@@ -34,7 +34,9 @@
 
 <<-- Last Projects added by action (from Website/projects) -->>
 
-<hr/>
+
+<br/>
+
 
 # Last Blog Posts:
 
