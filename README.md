@@ -42,6 +42,16 @@
 
 <<-- Last Blog Posts added by action (from Website/blog) -->>
 
+
+<br/>
+<details>
+     <br/>
+<summary>:zap: GitHub Stats</summary>
+<center><img align="left" alt="sushmitha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sushmithas99&show_icons=true&theme=radical" /></center>
+<br/>
+
+</details>
+
 <!--
 **masdot/masdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
