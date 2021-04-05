@@ -1,8 +1,15 @@
 ## Hi there, i'm @masdot!👋
 
-[![Website](https://img.shields.io/website?label=masdot.de&style=for-the-badge&url=https%3A%2F%2Fmasdot.de)](https://masdot.de/)
-[![Twitter](https://img.shields.io/twitter/follow/masdot?color=1DA1F2&logo=twitter&style=for-the-badge)](#twitter-link)
+[![Website](https://img.shields.io/website?label=masdot.de&style=for-the-badge&url=https%3A%2F%2Fmasdot.de)](https://masdot.de/) {: .center-image }
+[![Twitter](https://img.shields.io/twitter/follow/masdot?color=1DA1F2&logo=twitter&style=for-the-badge)](#twitter-link) {: .center-image }
 
+<style>
+  .center-image
+  {
+      margin: 0 auto;
+      display: block;
+  }
+</style>
 
 ### I'm a student and interested in web and app development and data science!
 
