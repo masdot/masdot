@@ -10,7 +10,6 @@
 - ☕ Nothing beats a good cup of coffee or a good wine 🍷
 
 <hr/>
-______
 
 ### Languages and Tools i work with:
 
