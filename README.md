@@ -33,7 +33,7 @@
 
 # My last projects:
 
-<<!-- Last Projects added by action (from Website/projects) -->>
+<!-- Last Projects added by action (from Website/projects) -->
 Stay tuned, coming soon!
 
 <br/>
@@ -41,7 +41,7 @@ Stay tuned, coming soon!
 
 # Last Blog Posts:
 
-<<!-- Last Blog Posts added by action (from Website/blog) -->>
+<!-- Last Blog Posts added by action (from Website/blog) -->
 Stay tuned, coming soon!
 
 <br/>
