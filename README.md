@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on the [CDA Corona-Data-Project](#repo-link)
 - 👯 I’m looking to collaborate on with other devs to improve the CDA Corona-Data-Project (Open-Source)
+- ☕ Nothing beats a good cup of coffee or a good wine 🍷
 
 ### Languages and Tools i work with:
 
