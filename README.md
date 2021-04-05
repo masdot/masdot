@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on with other devs to improve the CDA Corona-Data-Project (Open-Source)
 - ☕ Nothing beats a good cup of coffee or a good wine 🍷
 
+<br/>
 ______
 
 ### Languages and Tools i work with:
@@ -25,8 +26,8 @@ ______
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/topics/visual-studio-code)
 [<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />](https://github.com/topics/dart)
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />](https://github.com/topics/flutter)
-<br />
-<br />
+<br/>
+<br/>
 
 <!--
 **masdot/masdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
