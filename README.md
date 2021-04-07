@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=masdot.de&style=for-the-badge&url=https%3A%2F%2Fmasdot.de)](https://masdot.de/)
 [![Twitter](https://img.shields.io/twitter/follow/masdot?color=1DA1F2&logo=twitter&style=for-the-badge)](#twitter-link) -->
-[![Github](https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white")](https://github.com/sushmithas99)
+[![Github](https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white")](https://github.com/masdot)
 
 ### I'm a student and interested in web and app development and data science!
 
