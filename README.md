@@ -6,7 +6,7 @@
 
 ### I'm a student and interested in web and app development and data science!
 
-- 🔭 I’m currently working on the [CDA Corona-Data-Project](https://github.com/masdot/cdp-corona-data-project)
+- 🔭 I’m currently working on the [CDA Corona-Data-Project](https://github.com/masdot/cdp-corona-data-project) and on building my new website.
 - 👯 I’m looking to collaborate on with other devs to improve the CDA Corona-Data-Project 
 - ☕ Nothing beats a good cup of coffee or a good wine 🍷
 
