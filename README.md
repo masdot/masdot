@@ -44,9 +44,9 @@ Stay tuned, coming soon!
 <details>
      <br/>
 <summary>:zap: GitHub Stats</summary>
-<center><img align="left" alt="sushmitha's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=masdot&show_icons=true&theme=tokyonight" /></center>
-<br/>
-
+<center><img align="left" alt="sushmitha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=masdot" /></center>
+<br
+   
 </details>
 
 <!--
