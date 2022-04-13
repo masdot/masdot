@@ -6,7 +6,7 @@
 
 ### I'm a student and interested in web and app development and data science!
 
-- 🔭 I’m currently learning React.
+- 🔭 I’m currently learning the MEARN stack.
 - 👯 I’m looking to collaborate on interesting projects.
 - ☕ Nothing beats a good cup of coffee or a good wine 🍷
 
