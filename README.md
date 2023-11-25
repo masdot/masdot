@@ -1,15 +1,5 @@
 ### Hi there, i'm @masdot! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-<!-- [![Website](https://img.shields.io/website?label=masdot.de&style=for-the-badge&url=https%3A%2F%2Fmasdot.de)](https://masdot.de/) -->
-[![Github](https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white")](https://github.com/masdot)
-[![Twitter](https://img.shields.io/twitter/follow/masdot?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/official_masdot)
-
-### I'm a student and interested in web and app development and data science!
-
-- 🔭 I’m currently learning the MERN stack.
-- 👯 I’m looking to collaborate on interesting projects.
-- ☕ Nothing beats a good cup of coffee or a good wine 🍷
-
 <hr/>
 
 ### Languages and Tools i work with:
